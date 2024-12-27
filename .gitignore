@@ -52,5 +52,6 @@ rsconnect/
 
 # AACT files
 *0_Data/AACT/*
-*0_Data/OpenAI_Input/*
+*0_Data/OpenAI_Input/trials_ALL.csv
+*0_Data/OpenAI_Input/trials_ALL_combined.csv
 *0_Data/Labeled_Data_RA/*
