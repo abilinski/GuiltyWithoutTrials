@@ -49,3 +49,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# AACT files
+*0_Data/AACT/*
