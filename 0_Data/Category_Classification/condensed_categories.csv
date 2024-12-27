@@ -1,0 +1,38 @@
+﻿Original,Code,Preg.code,Preg.code2
+1. Prevention of pre-term labor/premature birth/preterm delivery/PROM/pPROM/Cervical insufficiency/Cervical cerclage,Pre-term labor/delivery,Pregnancy-specific,Pre-term labor prevention/management
+10. Gestational diabetes,Gestational diabetes,Pregnancy-specific,"Pregnancy conditions (e.g., preeclampsia)"
+27. Nausea and vomiting during pregnancy/Morning sickness/Hyperemesis,"Pregnancy symptoms (nausea/vomiting, headache)",Pregnancy-specific,"Pregnancy symptoms (e.g., nausea)"
+5. Malaria (with or without HIV),Malaria/TB,Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+Malaria (with or without HIV),Malaria/TB,Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+8. Fetal growth/IUGR/Fetal Growth Retardation,Infant disease/injury,Infant,"Pregnancy conditions (e.g., preeclampsia)"
+"16. Labor induction/Labor management/Other labor and delivery (NOT C-SECTION, NOT CAESAREAN)",Labor induction/management (non-C-section),Pregnancy-specific,Labor/Delivery
+15. C-section/caesarean,C-sections,Pregnancy-specific,Labor/Delivery
+2. Hypertension/pre-eclampsia/eclampsia/HELLP syndrome,HTN/Pre-eclampsia/Eclampsia,Pregnancy-specific,"Pregnancy conditions (e.g., preeclampsia)"
+9. Diabetes (Type I or Type II ONLY),Asthma/Type I&II diabetes/ Hypothyroidism,Not pregnancy-specific,"Chronic conditions (e.g., asthma)"
+7. Nutrition supplementation/Vitamin D/folic acid (DO NOT INCLUDE IRON OR ANEMIA),Nutrition,Pregnancy-specific,"Pregnancy conditions (e.g., preeclampsia)"
+"4. HIV (non-PMTCT, NO malaria, NO tuberculosis)",HIV (non-PMTCT),Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+21. Other infectious disease prevention/treatment (non-vaccine),Other infectious diseases,Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+17. Opioid use disorder/Substance use disorder/OUD/SUD,Substance use/cessation,Not pregnancy-specific,"Chronic conditions (e.g., asthma)"
+34. Abortion/Fetal Demise/Dilation and Evacuation/Dilation and Curettage,Infant disease/injury,Infant,Pre-term labor prevention/management
+23. GBS,Other infectious diseases,Pregnancy-specific,Labor/Delivery
+6. Anemia,Nutrition,Pregnancy-specific,"Pregnancy conditions (e.g., preeclampsia)"
+20. Smoking cessation,Substance use/cessation,Not pregnancy-specific,"Chronic conditions (e.g., asthma)"
+31. Tuberculosis (with or without HIV),Malaria/TB,Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+"3. HIV (Prevention of Mother-to-Child Transmission / PMTCT, NO malaria)",HIV (PMTCT),Infant,"Infectious disease (e.g. HIV, malaria)"
+19. Asthma,Asthma/Type I&II diabetes/ Hypothyroidism,Not pregnancy-specific,"Chronic conditions (e.g., asthma)"
+24. UTI,Other infectious diseases,Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+11. Vaccination,Other infectious diseases,Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+30. Other - maternal/parental/pregnant person disease or injury,Other (parental),Not pregnancy-specific,Other
+26. COVID-19,Other infectious diseases,Not pregnancy-specific,"Infectious disease (e.g. HIV, malaria)"
+14. Hypothyroidism/Thyroid disease,Asthma/Type I&II diabetes/ Hypothyroidism,Not pregnancy-specific,"Chronic conditions (e.g., asthma)"
+22. Pregnancy headache/leg cramps,"Pregnancy symptoms (nausea/vomiting, headache)",Pregnancy-specific,"Pregnancy symptoms (e.g., nausea)"
+28. Postpartum sepsis/hemorrhage/complications,Labor induction/management (non-C-section),Pregnancy-specific,Labor/Delivery
+29. Other - infant disease or injury,Infant disease/injury,Infant,"Pregnancy conditions (e.g., preeclampsia)"
+33. Other mental health,Mental health,Not pregnancy-specific,"Chronic conditions (e.g., asthma)"
+32. Postpartum depression/postpartum psychosis,Mental health,Pregnancy-specific,"Pregnancy conditions (e.g., preeclampsia)"
+X. Pain during obstetric procedures,,,Other
+X. Embolism,,,"Pregnancy conditions (e.g., preeclampsia)"
+X. Clots,,,"Pregnancy conditions (e.g., preeclampsia)"
+X. Chorioamnionitis,,,"Pregnancy conditions (e.g., preeclampsia)"
+X. Obstetric pain,,,Other
+X. Pain control,,,Other

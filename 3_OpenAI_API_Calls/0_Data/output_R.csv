@@ -1,0 +1,11 @@
+"","NCT_ID","AnyPregGPT","Summary","Summary quote","AnyPregGPT_updated","Summary_quote"
+"1","NCT00136084","Excluded","The study explicitly excludes pregnant individuals by requiring a negative pregnancy test and excluding those with a positive pregnancy test.","Negative pregnancy test~Positive pregnancy test","Excluded",NA
+"2","NCT03227796","Excluded","The study explicitly excludes women of childbearing potential, pregnant, or lactating women.",NA,"Excluded","Exclusion Criteria:~Women of childbearing potential, or who are pregnant or lactating"
+"3","NCT06168734","Excluded","The study explicitly excludes female patients who are pregnant.","Female patients who are pregnant.","Excluded",NA
+"4","NCT06168461","Excluded","The study explicitly excludes currently pregnant individuals.","Exclusion criteria:~currently pregnancy","Excluded",NA
+"5","NCT01658202","Unspecified","The study does not mention pregnancy, lactating, contraceptives, or childbearing in the inclusion or exclusion criteria.","Unspecified","Unspecified",NA
+"6","NCT01662921","Included","The study explicitly includes pregnant women with gestational diabetes mellitus as part of the inclusion criteria.","Pregnant and 20-30 weeks gestation~Diagnosed with gestational diabetes","Included",NA
+"7","NCT01665417","Unspecified","The inclusion and exclusion criteria do not mention pregnancy, lactation, contraceptives, or childbearing status. Therefore, the status of pregnant individuals in the trial is unspecified.",NA,"Unspecified","Unspecified"
+"8","NCT05798611","Excluded","The study explicitly excludes pregnant individuals as stated in the exclusion criteria.","Patients who are pregnant.","Excluded",NA
+"9","NCT05772156","Included","The study explicitly includes pregnant individuals as it focuses on patients undergoing cesarean delivery with twin gestations.","The purpose of this study is to understand the effect of prophylactic methylergonovine on blood loss in scheduled twin pregnancy cesarean deliveries.","Included",NA
+"10","NCT01226745","Unspecified","The study does not mention pregnancy, lactating, contraceptives, or childbearing in the inclusion or exclusion criteria.",NA,"Unspecified","Unspecified"
